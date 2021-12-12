@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#topnav{
+    text-align: center;
+    display: flex;
+}
+#logoimage{
+    width: 150px;
+    margin-top: 10px;
+}
+.topnav{
+    display:flex;
+}
+li{
+    list-style: none;
+    
+}
+
+    
+/* }
+.navtopbutton{
+    margin-left: ;
+    text-align: center;
+} */
